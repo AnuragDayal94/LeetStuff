@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0144-binary-tree-preorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
