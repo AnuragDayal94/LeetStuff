@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
