@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0102-binary-tree-level-order-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
