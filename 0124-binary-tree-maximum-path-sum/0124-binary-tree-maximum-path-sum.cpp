@@ -18,7 +18,7 @@ public:
         int left=solve(root->left,maxi);
         int right=solve(root->right,maxi);
         maxi=max(maxi,left+right+root->val);
-        maxi=max(maxi,root->val);
+        // maxi=max(maxi,root->val);
 
         if((root->val + max(left,right))<0)return 0;
         return root->val + max(left,right);
