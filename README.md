@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AnuragDayal94/LeetStuff/tree/master/1288-remove-covered-intervals) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnuragDayal94/LeetStuff/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
