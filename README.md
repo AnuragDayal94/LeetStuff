@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0144-binary-tree-preorder-traversal) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0144-binary-tree-preorder-traversal) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AnuragDayal94/LeetStuff/tree/master/1288-remove-covered-intervals) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
