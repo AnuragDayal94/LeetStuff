@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/AnuragDayal94/LeetStuff/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnuragDayal94/LeetStuff/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AnuragDayal94/LeetStuff/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AnuragDayal94/LeetStuff/tree/master/1020-number-of-enclaves) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AnuragDayal94/LeetStuff/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AnuragDayal94/LeetStuff/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnuragDayal94/LeetStuff/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnuragDayal94/LeetStuff/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -318,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/AnuragDayal94/LeetStuff/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
