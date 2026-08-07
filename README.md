@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
+| [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AnuragDayal94/LeetStuff/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragDayal94/LeetStuff/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AnuragDayal94/LeetStuff/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
