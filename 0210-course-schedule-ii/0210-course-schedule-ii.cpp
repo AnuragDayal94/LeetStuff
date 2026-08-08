@@ -10,8 +10,8 @@ public:
             int u=pre[i][0];
             int v=pre[i][1];
 
-            adj[u].push_back(v);
-            indeg[v]++;
+            adj[v].push_back(u);
+            indeg[u]++;
         }
 
         for(int i=0; i<n; i++){
@@ -31,7 +31,7 @@ public:
         }
 
         if(ans.size()<n)return {};
-        reverse(ans.begin(),ans.end());
+        // reverse(ans.begin(),ans.end());
         return ans;
     }
 };
