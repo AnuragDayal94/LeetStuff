@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/AnuragDayal94/LeetStuff/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnuragDayal94/LeetStuff/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AnuragDayal94/LeetStuff/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnuragDayal94/LeetStuff/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
@@ -361,5 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/AnuragDayal94/LeetStuff/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
