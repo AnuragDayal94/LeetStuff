@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AnuragDayal94/LeetStuff/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnuragDayal94/LeetStuff/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AnuragDayal94/LeetStuff/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -368,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/AnuragDayal94/LeetStuff/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/AnuragDayal94/LeetStuff/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
