@@ -47,13 +47,12 @@ public:
             d.unionr(u,v);
         }
 
-        set<int>st;
+        // set<int>st;
+        int ans=0;
         for(int i=0; i<n; i++){
-            int curr=d.find_par(d.parent[i]);
-            st.insert(curr);
-
+            if(d.find_par(d.parent[i])==i)ans++;
         }
 
-        return st.size()-1;
+        return ans-1;
     }
 };
