@@ -1,54 +1,67 @@
-class Solution {
-public:
-
-    unordered_map<int,list<int>>adj;
-
-    void solve(int i, vector<bool>& vis){
-        queue<int>q;
-        q.push(i);
-        vis[i]=true;
-
-        while(!q.empty()){
-            int it=q.front();
-            q.pop();
-
-            for(auto node:adj[it]){
-                if(!vis[node]){
-                    vis[node]=true;
-                    q.push(node);
-                }
-            }
+class ds{
+    
+    public:
+    vector<int> parent;
+    vector<long long>size;
+    ds(int n){
+        size.resize(n,0);
+        parent.resize(n);
+        for(int i=0; i<n; i++){
+            parent[i]=i;
         }
-        return;
     }
 
+    int find_par(int u){
+        if(parent[u]==u)return u;
+        return parent[u]=find_par(parent[u]);
+    }
+
+    void unions(int u, int v){
+        int par_u=find_par(u);
+        int par_v=find_par(v);
+
+        if(size[par_u]<size[par_v]){
+            parent[par_u]=par_v;
+            // size[par_v]+=size[par_u];
+        }
+        else if(size[par_u]>size[par_v]){
+            parent[par_v]=par_u;
+            // size[par_u]+=size[par_v];
+        }else{
+            parent[par_v]=par_u;
+            size[par_u]++;
+        }
+        return ;
+    }
+};
+
+class Solution {
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
-
+        vector<pair<int,int>>adj;
         for(int i=0; i<n; i++){
-            int u=i;
-            for(int j=0; j<isConnected[i].size(); j++){
-                int v=j;
+            for(int j=0; j<n; j++){
                 if(isConnected[i][j]){
-                    adj[u].push_back(v);
-                    adj[v].push_back(u);
-
+                    adj.push_back({i,j});
                 }
             }
         }
 
-        // 
+        ds d(n);
+        for(int i=0; i<adj.size(); i++){
+            int u=adj[i].first;
+            int v=adj[i].second;
 
-        int ans=0;
-        vector<bool>vis(n,false);
-
-        for(int i=0; i<n; i++){
-            if(!vis[i]){
-                ans++;
-                solve(i,vis);
-            }
+            d.unions(u,v);
         }
 
-        return ans;
+        set<int> st;
+
+        for(int i = 0; i < n; i++){
+            st.insert(d.find_par(i));
+        }
+
+        return st.size();
     }
 };
