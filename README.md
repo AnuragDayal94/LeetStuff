@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AnuragDayal94/LeetStuff/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnuragDayal94/LeetStuff/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnuragDayal94/LeetStuff/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
@@ -440,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnuragDayal94/LeetStuff/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
