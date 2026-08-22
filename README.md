@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnuragDayal94/LeetStuff/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnuragDayal94/LeetStuff/tree/master/0733-flood-fill) |
@@ -267,12 +268,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AnuragDayal94/LeetStuff/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/AnuragDayal94/LeetStuff/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
