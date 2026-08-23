@@ -11,7 +11,7 @@ public:
         return dp[i][j]=max(solve(s,i+1,j,dp),solve(s,i,j-1,dp));
     }
 
-    int solve2(string s){
+    int solve3(string s){
         int n=s.length();
         vector<vector<int>>dp(n+1,vector<int>(n+1,0));
         for(int i=0; i<n+1; i++){
@@ -27,6 +27,30 @@ public:
             }
         }
         return dp[0][n-1];
+    }
+
+    int solve2(string s){
+        int n=s.length();
+        // vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        vector<int>curr(n+1,0);
+        vector<int>next(n+1,0);
+        
+
+        // for(int i=0; i<n+1; i++){
+        //     for(int j=0; j<n+1; j++){
+        //         if(i==j)dp[i][j]=1;
+        //     }
+        // }
+
+        for(int i=n-1; i>=0; i--){
+            curr[i]=1;
+            for(int j=i+1; j<n; j++){
+                if(s[i]==s[j])curr[j]=2+next[j-1];
+                else curr[j]=max(next[j],curr[j-1]);
+            }
+            next=curr;
+        }
+        return next[n-1];
     }
 
     int longestPalindromeSubseq(string s) {
