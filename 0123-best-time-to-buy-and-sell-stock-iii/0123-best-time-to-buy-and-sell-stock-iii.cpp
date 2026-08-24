@@ -16,18 +16,21 @@ public:
 
     int solve2(vector<int>& prices){
         int n=prices.size();
-        vector<int>curr(2);
-        vector<int>next(2,0);
+        vector<vector<int>>curr(2, vector<int>(5));
+        vector<vector<int>>next(2, vector<int>(5,0));
 
         for(int i=n-1; i>=0; i--){
             for(int j=0; j<2; j++){
-                if(j)curr[j]=max(next[j],prices[i]+next[!j]);
-                else curr[j]=max(next[j],-prices[i]+next[!j]);
+                for(int k=1; k<5; k++){
+                    if(j)curr[j][k]=max(next[j][k],prices[i]+next[!j][k-1]);
+                    else curr[j][k]=max(next[j][k],-prices[i]+next[!j][k-1]);
+                }
+                
             }
             next=curr;
         }
 
-        return next[0];
+        return next[0][4];
 
     }
 
@@ -35,6 +38,6 @@ public:
         int n=prices.size();
 
         vector<vector<vector<int>>>dp(n+1, vector<vector<int>>(2,vector<int>(5,-1)));
-        return solve(prices, 0, false, dp, 4);
+        return solve2(prices);
     }
 };
