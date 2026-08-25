@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AnuragDayal94/LeetStuff/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1092-shortest-common-supersequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnuragDayal94/LeetStuff/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/AnuragDayal94/LeetStuff/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/1092-shortest-common-supersequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnuragDayal94/LeetStuff/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -497,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/AnuragDayal94/LeetStuff/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
