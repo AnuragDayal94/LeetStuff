@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnuragDayal94/LeetStuff/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AnuragDayal94/LeetStuff/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnuragDayal94/LeetStuff/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AnuragDayal94/LeetStuff/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AnuragDayal94/LeetStuff/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/AnuragDayal94/LeetStuff/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnuragDayal94/LeetStuff/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/AnuragDayal94/LeetStuff/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/AnuragDayal94/LeetStuff/tree/master/1288-remove-covered-intervals) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AnuragDayal94/LeetStuff/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
