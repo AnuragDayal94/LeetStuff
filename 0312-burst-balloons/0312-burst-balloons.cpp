@@ -25,9 +25,34 @@ public:
         return dp[i+1][j+1]=ans;
     }
 
+    int tabulation(vector<int>& nums){
+        int n=nums.size();
+        vector<vector<int>>dp(n+2,vector<int>(n+2,0));
+
+        for(int i=n; i>=-1; i--){
+            for(int j=i+2; j<=n; j++){
+                int prev;
+                int next;
+                if(i<0)prev=1;
+                else prev=nums[i];
+
+                if(j>=n)next=1;
+                else next=nums[j];
+
+                int ans=0;
+                for(int k=i+1; k<j; k++){
+                    int temp=dp[k+1][j+1]+dp[i+1][k+1]+(prev*next*nums[k]);
+                    ans=max(ans, temp);
+                }
+                dp[i+1][j+1]=ans;
+            }
+        }
+        return dp[0][n+1];
+    }
+
     int maxCoins(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>>dp(n+2,vector<int>(n+2,-1));
-        return solve(nums, -1, n, dp);
+        // vector<vector<int>>dp(n+2,vector<int>(n+2,-1));
+        return tabulation(nums);
     }
 };
