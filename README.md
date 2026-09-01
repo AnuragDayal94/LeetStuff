@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/AnuragDayal94/LeetStuff/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnuragDayal94/LeetStuff/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/AnuragDayal94/LeetStuff/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnuragDayal94/LeetStuff/tree/master/1301-number-of-paths-with-max-score) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AnuragDayal94/LeetStuff/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnuragDayal94/LeetStuff/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/AnuragDayal94/LeetStuff/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/AnuragDayal94/LeetStuff/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
