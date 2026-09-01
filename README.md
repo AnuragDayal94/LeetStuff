@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AnuragDayal94/LeetStuff/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AnuragDayal94/LeetStuff/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AnuragDayal94/LeetStuff/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AnuragDayal94/LeetStuff/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AnuragDayal94/LeetStuff/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/AnuragDayal94/LeetStuff/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0516-longest-palindromic-subsequence) |
