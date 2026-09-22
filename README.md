@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnuragDayal94/LeetStuff/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnuragDayal94/LeetStuff/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
+| [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AnuragDayal94/LeetStuff/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AnuragDayal94/LeetStuff/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AnuragDayal94/LeetStuff/tree/master/0322-coin-change) |
@@ -233,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 ## Linked List
 |  |
 | ------- |
@@ -529,9 +533,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
