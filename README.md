@@ -550,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AnuragDayal94/LeetStuff/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
