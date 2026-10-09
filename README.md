@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnuragDayal94/LeetStuff/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnuragDayal94/LeetStuff/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/AnuragDayal94/LeetStuff/tree/master/0217-contains-duplicate) |
 | [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AnuragDayal94/LeetStuff/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AnuragDayal94/LeetStuff/tree/master/0312-burst-balloons) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AnuragDayal94/LeetStuff/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/AnuragDayal94/LeetStuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnuragDayal94/LeetStuff/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AnuragDayal94/LeetStuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnuragDayal94/LeetStuff/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
