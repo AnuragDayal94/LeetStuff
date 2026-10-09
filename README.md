@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnuragDayal94/LeetStuff/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/AnuragDayal94/LeetStuff/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AnuragDayal94/LeetStuff/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/AnuragDayal94/LeetStuff/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AnuragDayal94/LeetStuff/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/AnuragDayal94/LeetStuff/tree/master/0312-burst-balloons) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/AnuragDayal94/LeetStuff/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/AnuragDayal94/LeetStuff/tree/master/1048-longest-string-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
