@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnuragDayal94/LeetStuff/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnuragDayal94/LeetStuff/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnuragDayal94/LeetStuff/tree/master/0144-binary-tree-preorder-traversal) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AnuragDayal94/LeetStuff/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AnuragDayal94/LeetStuff/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AnuragDayal94/LeetStuff/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AnuragDayal94/LeetStuff/tree/master/0115-distinct-subsequences) |
@@ -614,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/AnuragDayal94/LeetStuff/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AnuragDayal94/LeetStuff/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AnuragDayal94/LeetStuff/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnuragDayal94/LeetStuff/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
