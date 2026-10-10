@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AnuragDayal94/LeetStuff/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnuragDayal94/LeetStuff/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnuragDayal94/LeetStuff/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragDayal94/LeetStuff/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnuragDayal94/LeetStuff/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
