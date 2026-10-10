@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/AnuragDayal94/LeetStuff/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnuragDayal94/LeetStuff/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
