@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnuragDayal94/LeetStuff/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/AnuragDayal94/LeetStuff/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnuragDayal94/LeetStuff/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/AnuragDayal94/LeetStuff/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AnuragDayal94/LeetStuff/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AnuragDayal94/LeetStuff/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnuragDayal94/LeetStuff/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/AnuragDayal94/LeetStuff/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AnuragDayal94/LeetStuff/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnuragDayal94/LeetStuff/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnuragDayal94/LeetStuff/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnuragDayal94/LeetStuff/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/AnuragDayal94/LeetStuff/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
