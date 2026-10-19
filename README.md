@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AnuragDayal94/LeetStuff/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnuragDayal94/LeetStuff/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragDayal94/LeetStuff/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/AnuragDayal94/LeetStuff/tree/master/1732-find-the-highest-altitude) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AnuragDayal94/LeetStuff/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AnuragDayal94/LeetStuff/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AnuragDayal94/LeetStuff/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AnuragDayal94/LeetStuff/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/AnuragDayal94/LeetStuff/tree/master/0704-binary-search) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AnuragDayal94/LeetStuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnuragDayal94/LeetStuff/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDayal94/LeetStuff/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/AnuragDayal94/LeetStuff/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/AnuragDayal94/LeetStuff/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnuragDayal94/LeetStuff/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnuragDayal94/LeetStuff/tree/master/0947-most-stones-removed-with-same-row-or-column) |
