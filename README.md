@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDayal94/LeetStuff/tree/master/0387-first-unique-character-in-a-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnuragDayal94/LeetStuff/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AnuragDayal94/LeetStuff/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AnuragDayal94/LeetStuff/tree/master/3620-network-recovery-pathways) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -485,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnuragDayal94/LeetStuff/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/AnuragDayal94/LeetStuff/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -666,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragDayal94/LeetStuff/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
