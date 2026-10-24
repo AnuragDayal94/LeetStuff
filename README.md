@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnuragDayal94/LeetStuff/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/AnuragDayal94/LeetStuff/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnuragDayal94/LeetStuff/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/AnuragDayal94/LeetStuff/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnuragDayal94/LeetStuff/tree/master/0387-first-unique-character-in-a-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnuragDayal94/LeetStuff/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AnuragDayal94/LeetStuff/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/AnuragDayal94/LeetStuff/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
