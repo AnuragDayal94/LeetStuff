@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
-select u.unique_id, e.name
-from Employees e
-left join EmployeeUNI u
-on e.id=u.id
+select coalesce(b.unique_id,null) as unique_id, 
+a.name
+from Employees a
+left join EmployeeUNI b
+on a.id=b.id
