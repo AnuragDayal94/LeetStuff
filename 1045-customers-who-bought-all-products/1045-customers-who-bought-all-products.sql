@@ -1,8 +1,7 @@
 # Write your MySQL query statement below
 select customer_id
-from customer
+from Customer c
 group by customer_id
 having count(distinct product_key)=(
-    select count(product_key) as p
-    from Product
+    select count(*) from Product
 )
