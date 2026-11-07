@@ -1,10 +1,9 @@
 # Write your MySQL query statement below
-select e1.reports_to as employee_id, 
-e2.name,
-count(e1.reports_to) as reports_count,
-round(avg(e1.age)) as average_age
-from Employees e1
-inner join Employees e2
-on e1.reports_to=e2.employee_id
-group by e1.reports_to
-order by e1.reports_to
+select m.reports_to as employee_id, e.name,
+count(*) as reports_count, round(avg(m.age)) as average_age
+from Employees m
+left join Employees e
+on m.reports_to=e.employee_id 
+where m.reports_to is not NULL
+group by m.reports_to
+order by employee_id
