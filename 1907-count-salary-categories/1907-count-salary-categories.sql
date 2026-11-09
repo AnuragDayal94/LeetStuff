@@ -1,23 +1,21 @@
-WITH z AS (
-    SELECT 'Low Salary' AS category
-    UNION ALL
-    SELECT 'Average Salary'
-    UNION ALL
-    SELECT 'High Salary'
-),
-c AS (
-    SELECT
-        CASE
-            WHEN income < 20000 THEN 'Low Salary'
-            WHEN income <= 50000 THEN 'Average Salary'
-            ELSE 'High Salary'
-        END AS category,
-        COUNT(*) AS accounts_count
-    FROM Accounts
-    GROUP BY category
-)
-SELECT z.category,
-       COALESCE(c.accounts_count, 0) AS accounts_count
-FROM z
-LEFT JOIN c
-    ON z.category = c.category;
+# Write your MySQL query statement below
+select r.category, coalesce(t.no,0) as accounts_count
+from (
+    select 'Low Salary' as category
+    union all 
+    select 'Average Salary'
+    union all 
+    select 'High Salary'
+) r
+left join (
+    select *, count(*) as no
+    from(
+        select *, (case when income<20000 then 'Low Salary'  when income<=50000 and income>=20000 then 'Average Salary' else 'High Salary' end) as category
+        from Accounts
+    )a
+    group by a.category
+    
+) t
+on r.category=t.category
+
+
