@@ -1,15 +1,21 @@
 # Write your MySQL query statement below
-select a.product_id, coalesce(b.new_price, 10) as price
-from (select distinct product_id from Products) a
-left join (
-    select product_id, new_price
-    from Products
-    where (product_id, change_date) in (
-        select product_id, max(change_date)
+with ranked as (
+    select *, row_number() over (
+        partition by product_id
+        order by change_date DESC
+    ) as rn
+    from (
+        select *
         from Products
         where change_date<='2019-08-16'
-        group by product_id
-    )
-) b
-on a.product_id = b.product_id
+    ) a
+)
 
+select p.product_id, (case when r.rn=1 then r.new_price else 10 end) as price
+from (
+    select distinct product_id
+    from Products
+) p
+left join ranked r
+on p.product_id=r.product_id
+where r.rn=1 or r.rn is NULL
